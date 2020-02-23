@@ -3,7 +3,6 @@ public class Test {
         System.out.println("gitttttttttttttttttt");
         System.out.println("gitttttttttttttttttt");
         System.out.println("gitttttttttttttttttt");
-        System.out.println("gitttttttttttttttttt");
-        System.out.println("gitttttttttttttttttt");
+
     }
 }
